@@ -1,0 +1,9 @@
+bin\Debug\DbReadTest.exe.config
+bin\Debug\DbReadTest.exe
+bin\Debug\DbReadTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DbReadTest.Form1.resources
+obj\Debug\DbReadTest.Properties.Resources.resources
+obj\Debug\DbReadTest.csproj.GenerateResource.Cache
+obj\Debug\DbReadTest.exe
+obj\Debug\DbReadTest.pdb
